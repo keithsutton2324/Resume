@@ -2,7 +2,7 @@ Keith Sutton
 P.O. Box 3263
 15345 Sudsbury Circle
 Truckee, CA 96160
- Email: suttonk@sbcglobal.net
+Email: suttonk@sbcglobal.net
 Phone: (530) 448-1339
  
  
@@ -12,45 +12,45 @@ Summary:
 •	Experience in implementing testing tools and testing methodologies
 
 Experience: 
- November 2002 to Present 
-Sierra Design Group / Bally Technologies  / Scientific Games,  Reno, NV
-Senior Firmware Engineer
-•	Responsible for development of slot machine games for the gaming industry
-•	Development environment C++ on an embedded Linux platform, using SlickEdit, CrossVC, and TestTrack tools
-•	Using a Math PAR Sheet, reel strip definitions, graphics files, animation files and sound files to ultimately complete a game
-•	Games could be video reel or stepper motor reel, games controlled thermal ticket printers, cash readers, and other peripherals via communication protocols 
-•	Monitored and contributed to the entire process from software development, Quality Assurance and Testing, to GLI regulatory approval
+ 	November 2002 to Present 
+	Sierra Design Group / Bally Technologies  / Scientific Games,  Reno, NV
+	Senior Firmware Engineer
+		•	Responsible for development of slot machine games for the gaming industry
+		•	Development environment C++ on an embedded Linux platform, using SlickEdit, CrossVC, and TestTrack tools
+		•	Using a Math PAR Sheet, reel strip definitions, graphics files, animation files and sound files to ultimately complete a game
+		•	Games could be video reel or stepper motor reel, games controlled thermal ticket printers, cash readers, and other peripherals via communication protocols 
+		•	Monitored and contributed to the entire process from software development, Quality Assurance and Testing, to GLI regulatory approval
 
-December 2000 to August 2002
-Calix Networks, Petaluma CA
-Lead Integration Engineer
-Responsibilities include all phases of software and hardware integration for a Telecommunications Access Node
-•	Developed test plans and test cases for DSn and OCn line cards
-•	Created automated TCL and  PERL test scripts for testing of equipment and facility  provisioning, cross-connects, performance monitoring, and alarm reporting
-•	Created TL1 scripts for control-plane simulation and testing prior to hardware availability
-•	Performed hardware/software system integration and data-plane testing using OmniBer, TBerd, and AdTech test equipment 
-•	Developed software for a Test Access and Alarm Display Unit, including ISRs, boot code, and application code
+	December 2000 to August 2002
+	Calix Networks, Petaluma CA
+	Lead Integration Engineer
+	Responsibilities include all phases of software and hardware integration for a Telecommunications Access Node
+		•	Developed test plans and test cases for DSn and OCn line cards
+		•	Created automated TCL and  PERL test scripts for testing of equipment and facility  provisioning, cross-connects, performance monitoring, and alarm reporting
+		•	Created TL1 scripts for control-plane simulation and testing prior to hardware availability
+		•	Performed hardware/software system integration and data-plane testing using OmniBer, TBerd, and AdTech test equipment 
+		•	Developed software for a Test Access and Alarm Display Unit, including ISRs, boot code, and application code
 
 July 2000 to December 2000
 Texas Instruments, Santa Rosa CA
 Software Engineer
 Responsibilities include developing real-time embedded software for wireless communications products
-•	Co-developed embedded software for an Ethernet bridge card
-•	Implemented a utility to capture 802.3 packets from Linux kernel space. Packet headers were modified, and packets subsequently written to an FPGA controller for an 802.11 wireless interface card
-•	Developed a boot loader, message protocol, and command processor for an ARM based 802.11 wireless access point
+		•	Co-developed embedded software for an Ethernet bridge card
+		•	Implemented a utility to capture 802.3 packets from Linux kernel space. Packet headers were modified, and packets subsequently written to an FPGA controller for an 802.11 wireless interface card
+		•	Developed a boot loader, message protocol, and command processor for an ARM based 802.11 wireless access point
 
 June 1997 to July 2000
 Hewlett-Packard / Agilent Technologies, Santa Rosa CA
 R&D Software Engineer
 Developed real-time embedded software for the HP/Agilent ESG Signal Generator family
-•	Designed an Object-Oriented architecture for Power and Frequency control for
-Agilent's next generation Microwave Signal Generators
-•	Developed a file system for an Arbitrary Waveform Generator
-•	Developed a configuration manager for identification and provisioning of combinations of hardware that could be present in an instrument
-•	Developed front panel and remote user interfaces to support new features and operations
-•	Worked with RF Hardware Engineers to develop and implement control and calibration algorithms for various circuits
-•	Interfaced with Manufacturing Engineers in order to ensure a smooth transition from development to production
-•	Developed a PC-based application used to install new versions of firmware into customer instruments
+		•	Designed an Object-Oriented architecture for Power and Frequency control for
+			Agilent's next generation Microwave Signal Generators
+		•	Developed a file system for an Arbitrary Waveform Generator
+		•	Developed a configuration manager for identification and provisioning of combinations of hardware that could be present in an instrument
+		•	Developed front panel and remote user interfaces to support new features and operations
+		•	Worked with RF Hardware Engineers to develop and implement control and calibration algorithms for various circuits
+		•	Interfaced with Manufacturing Engineers in order to ensure a smooth transition from development to production
+		•	Developed a PC-based application used to install new versions of firmware into customer instruments
 
 Education:   
 University of Nevada, Reno
@@ -58,9 +58,9 @@ Bachelor of Science, Computer Science
 Graduated May 1997
 GPA 3.97
 Course Work:
-	· Computer Architecture 		· Data Structures
+	· Computer Architecture 	· Data Structures
 	· Software Engineering 		· Object-Oriented Software Development
-	· Operating Systems			· Microprocessors
+	· Operating Systems				· Microprocessors
 	· Computer Algorithms			· Real-time Operating Systems 
 	· Parallel Computing			· Computer Graphics 
 
@@ -72,7 +72,7 @@ Course Work:
 			
 Technical Knowledge:   
 Languages: 	C, C++, XML, Perl
-Operating Systems: 		LINUX, HP/UX, pSOS, Windows, DOS
-Applications: 			GCC, GDB, Integrated Systems Development Environment, 
+Operating Systems:  LINUX, HP/UX, pSOS, Windows, DOS
+Applications:  GCC, GDB, Integrated Systems Development Environment, 
 PVCS, TI Code Composer Studio, IAR Embedded Workbench, 
-Green Hills Integrated Devel
+Green Hills Integrated Development Environment
